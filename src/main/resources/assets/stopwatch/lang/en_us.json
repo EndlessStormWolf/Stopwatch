@@ -1,5 +1,8 @@
 {
   "category.stopwatch.stopwatch": "Stopwatch",
   "key.stopwatch.stopstart": "Start/Stop",
-  "key.stopwatch.reset": "Reset"
+  "key.stopwatch.reset": "Reset",
+  "use.stopwatch.reset": "Stopwatch reset!",
+  "use.stopwatch.stop": "Stopwatch stopped!",
+  "use.stopwatch.start": "Stopwatch started!"
 }

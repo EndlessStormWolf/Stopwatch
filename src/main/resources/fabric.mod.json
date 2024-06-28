@@ -8,7 +8,8 @@
 		"EndlessStormWolf"
 	],
 	"contact": {
-		"sources": ""
+		"home": "https://endlessstormwolf.org",
+		"sources": "https://github.com/EndlessStormWolf/Stopwatch"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/stopwatch/icon.png",
@@ -22,7 +23,7 @@
 		"stopwatch.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.15.11",
+		"fabricloader": "*",
 		"minecraft": "~1.20.4",
 		"java": ">=17",
 		"fabric-api": "*",

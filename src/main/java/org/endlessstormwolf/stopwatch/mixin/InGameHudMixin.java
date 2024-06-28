@@ -80,7 +80,7 @@ public abstract class InGameHudMixin {
                 }
             }
             if (timer != 0) {
-                client.player.sendMessage(Text.literal("Timer reset!"), false);
+                client.player.sendMessage(Text.translatable("use.stopwatch.reset"), false);
             }
             timer = 0;
             timeOld = 0;
@@ -91,13 +91,13 @@ public abstract class InGameHudMixin {
             if (Stopwatch.stopStart.wasPressed()) {
                 if (timerActive) {
                     timerActive = false;
-                    client.player.sendMessage(Text.literal("Timer stopped!"), false);
+                    client.player.sendMessage(Text.translatable("use.stopwatch.stop"), false);
                 } else {
                     timerActive = true;
                     timeStart = System.nanoTime();
                     timeCurrent = System.nanoTime();
                     timeOld = timer;
-                    client.player.sendMessage(Text.literal("Timer started!"), false);
+                    client.player.sendMessage(Text.translatable("use.stopwatch.start"), false);
                 }
             }
             if (timerActive) {
