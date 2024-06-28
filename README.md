@@ -11,7 +11,7 @@ To reset the stopwatch, use the [Reset] keybind, which can be configured in the 
 Pressing [Reset] with no time on the stopwatch will toggle the overlay, disabling it. If it is already disabled, the [Reset] key will enable it once more.
 
 Screenshot of the stopwatch in-game!
-![2024-06-27_16 52 59](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/a6ff0780-d66c-43ba-886e-a863f9f5fbe8)
+![2024-06-27_19 32 42](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/4868818d-0271-4844-ad91-5739bd2462b2)
 
 
 Notes: 
