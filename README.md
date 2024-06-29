@@ -1,4 +1,4 @@
-![StopwatchIcon3Large](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/73313099-8b00-4867-b296-f2362175e966)
+![StopwatchIcon3Large](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/e23827e8-08ef-4bf8-86fd-a880cf47d13f)
 <h1>Wolf's Stopwatch</h1>
 
 
