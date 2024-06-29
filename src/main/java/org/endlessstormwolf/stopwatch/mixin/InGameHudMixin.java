@@ -72,6 +72,7 @@ public abstract class InGameHudMixin {
     public void render(DrawContext context, float tickDelta, CallbackInfo ci) {
         float scale = (float) scaledWidth/320;
         if (Stopwatch.reset.wasPressed()) {
+            Stopwatch.LOGGER.info("Stopwatch reset at: " + getTime());
             if (!overlayActive) {
                 overlayActive = true;
             } else {
@@ -92,6 +93,7 @@ public abstract class InGameHudMixin {
                 if (timerActive) {
                     timerActive = false;
                     client.player.sendMessage(Text.translatable("use.stopwatch.stop"), false);
+                    Stopwatch.LOGGER.info("Stopwatch stopped at: " + getTime());
                 } else {
                     timerActive = true;
                     timeStart = System.nanoTime();
