@@ -1,0 +1,8 @@
+{
+  "category.stopwatch.stopwatch": "Секундомер",
+  "key.stopwatch.stopstart": "Запуск/Остановить",
+  "key.stopwatch.reset": "Сброс",
+  "use.stopwatch.reset": "Секундомер сброшен!",
+  "use.stopwatch.stop": "Секундомер приостановлен!",
+  "use.stopwatch.start": "Секундомер запущен!"
+}
