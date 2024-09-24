@@ -1,5 +1,6 @@
-![StopwatchIconLarge](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/32d26390-2639-4c98-818a-6ccff0416a3c)
+![StopwatchIcon3Large](https://github.com/EndlessStormWolf/Stopwatch/assets/108556620/e23827e8-08ef-4bf8-86fd-a880cf47d13f)
 <h1>Wolf's Stopwatch</h1>
+
 
 
 A simple mod that adds an on-screen stopwatch into Minecraft!
