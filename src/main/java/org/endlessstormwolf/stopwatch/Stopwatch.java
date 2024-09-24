@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Stopwatch implements ModInitializer {
-    public static final Logger LOGGER = LoggerFactory.getLogger("wolfsstopwatch");
+	public static final Logger LOGGER = LoggerFactory.getLogger("wolfsstopwatch");
 
 	public static KeyBinding stopStart;
 	public static KeyBinding reset;
